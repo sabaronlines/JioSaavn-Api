@@ -6,6 +6,7 @@
     "node": "22.x"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.56.0"
+    "@supabase/supabase-js": "^2.56.0",
+    "@vercel/node": "^5.3.0"
   }
 }
